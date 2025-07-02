@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Webpack + SCSS is working!"),console.log("heloo")})();

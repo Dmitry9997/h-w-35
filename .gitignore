@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Output of Webpack
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Mac system files
+*.swp
+*.swo
+
+# Optional: if using coverage tools (like Jest)
+coverage/
+
+# Optional: if using ESLint cache
+.eslintcache
+
+# Optional: if using Prettier
+.prettiercache
